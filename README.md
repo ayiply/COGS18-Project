@@ -1,1 +1,1 @@
-# COG18
+# COG18 Project
